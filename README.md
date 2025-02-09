@@ -47,7 +47,10 @@ Follow this link to setup local authorization to use Google Vertex AI Services: 
 
 ## Output Screenshots
 
+
 ![image](https://github.com/user-attachments/assets/9f4627c1-d41f-45c8-be22-de38c04f0823)
+
+---
 
 ![image](https://github.com/user-attachments/assets/edf2d811-13ed-4719-84fd-f3014fff38f4)
 
